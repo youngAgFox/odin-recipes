@@ -1,0 +1,33 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p {
+    text-align: center;
+}
+
+h1 {
+    color: brown;
+}
+
+h2 {
+    color: rosybrown;
+}
+
+h4 {
+    color: burlywood;
+}
+
+img {
+    height: auto;
+    max-width: 70%;
+}
+
+ul {
+    font-size: 18px;
+    padding-bottom: 10px;
+}
+
+ol li {
+    padding-bottom: 20px;
+}
